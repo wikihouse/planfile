@@ -1,6 +1,6 @@
 ---
 id: planfile
-tags: +tav, TODO, @tav
+tags: +tav, TODO
 title: Planfile
 ---
 
