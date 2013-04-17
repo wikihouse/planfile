@@ -1,6 +1,7 @@
 ---
 id: planfile
-tags: +tav, TODO
+tags: +tav, DONE, #devops
 title: Planfile
 ---
 
+Setup a planfile for the Wikihouse Campaign
