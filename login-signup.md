@@ -1,6 +1,6 @@
 ---
 id: login-signup
-tags: TODO, #proto, #golang, +tav
+tags: #golang, #proto, +tav, WIP
 title: Login & Signup
 ---
 
