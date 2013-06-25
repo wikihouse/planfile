@@ -1,6 +1,6 @@
 ---
 id: seed-pitch
-tags: #outreach, +crebel, INFO
+tags: #outreach, +crebel, TODO
 title: Seed Pitch
 ---
 
