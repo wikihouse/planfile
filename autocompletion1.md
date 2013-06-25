@@ -1,6 +1,6 @@
 ---
 id: autocompletion1
-tags: TODO, #proto, #coffeescript, #css +tav
-title: Autocompletion
+tags: #coffeescript, #css, #proto, +tav, TODO
+title: Autocompletion UI
 ---
 
