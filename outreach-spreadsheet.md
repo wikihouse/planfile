@@ -1,6 +1,6 @@
 ---
 id: outreach-spreadsheet
-tags: INFO, #outreach, +christinarebel
+tags: #outreach, +crebel, TODO
 title: Outreach Spreadsheet
 ---
 
