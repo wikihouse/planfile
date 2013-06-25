@@ -1,6 +1,6 @@
 ---
 id: email
-tags: TODO, #proto, #coffeescript, #css +tav
+tags: #devops, +tav, TODO
 title: Email
 ---
 
