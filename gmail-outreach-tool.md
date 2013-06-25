@@ -1,6 +1,6 @@
 ---
 id: gmail-outreach-tool
-tags: TODO, #outreach, #coffeescript, #python
+tags: #coffeescript, #outreach, #python, TODO, +tav
 title: Gmail Outreach Tool
 ---
 
