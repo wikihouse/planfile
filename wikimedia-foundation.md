@@ -1,6 +1,6 @@
 ---
 id: wikimedia-foundation
-tags: TODO #endorsement
+tags: #endorsement, WIP
 title: Wikimedia Foundation
 ---
 
