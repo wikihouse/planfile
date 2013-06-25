@@ -1,6 +1,6 @@
 ---
 id: seed-pitch
-tags: INFO, #outreach, +christinarebel
+tags: #outreach, +crebel, INFO
 title: Seed Pitch
 ---
 
