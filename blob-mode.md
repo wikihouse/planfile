@@ -1,6 +1,6 @@
 ---
 id: blob-mode
-tags: TODO, #proto, #golang, +tav
-title: Blob Mode
+tags: #golang, #proto, +tav, TODO
+title: Blob Node
 ---
 
