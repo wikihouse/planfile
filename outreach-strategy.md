@@ -1,6 +1,6 @@
 ---
 id: outreach-strategy
-tags: INFO, #outreach, +christinarebel
+tags: #outreach, +crebel, INFO
 title: Outreach Strategy
 ---
 
