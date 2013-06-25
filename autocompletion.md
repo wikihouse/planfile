@@ -1,6 +1,6 @@
 ---
 id: autocompletion
-tags: TODO, #proto, #golang, +tav
+tags: #golang, #proto, +tav, TODO
 title: Autocompletion
 ---
 
