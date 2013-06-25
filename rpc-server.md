@@ -1,6 +1,6 @@
 ---
 id: rpc-server
-tags: TODO, #proto, #golang, +tav
+tags: #golang, #proto, +tav, WIP
 title: RPC Server
 ---
 
