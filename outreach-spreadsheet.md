@@ -1,6 +1,6 @@
 ---
 id: outreach-spreadsheet
-tags: #outreach, +crebel, TODO
+tags: #outreach, +crebel, WIP
 title: Outreach Spreadsheet
 ---
 
